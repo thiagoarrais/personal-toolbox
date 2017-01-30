@@ -5,3 +5,5 @@
 [HTTP Statuses](https://httpstatuses.com/): Beatiful references for each and every HTTP status. It _isn't_ a reproduction of the specs.
 
 [Ruby Toolbox](https://www.ruby-toolbox.com/): Meta-tool for the Ruby world.
+
+[dply](https://dply.co/): Free servers with 2h lifespan.
