@@ -9,3 +9,5 @@
 [Ruby Toolbox](https://www.ruby-toolbox.com/): Meta-tool for the Ruby world.
 
 [dply](https://dply.co/): Free servers with 2h lifespan.
+
+[explainshell.com](http://explainshell.com/): Parses real shell commands and explains each option
