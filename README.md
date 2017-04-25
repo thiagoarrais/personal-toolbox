@@ -13,3 +13,5 @@
 [explainshell.com](http://explainshell.com/): Parses real shell commands and explains each option
 
 [ngrok](https://ngrok.com): Expose a local (dev) server to the Internet. Even behind a firewall. 
+
+[BlackBox](https://github.com/StackExchange/blackbox): Store secrets securely in git repos.
