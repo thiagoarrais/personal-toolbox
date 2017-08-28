@@ -15,3 +15,5 @@
 [ngrok](https://ngrok.com): Expose a local (dev) server to the Internet. Even behind a firewall. 
 
 [BlackBox](https://github.com/StackExchange/blackbox): Store secrets securely in git repos.
+
+[jq](https://stedolan.github.io/jq/tutorial/): Parse and process JSON in the command line
