@@ -17,3 +17,5 @@
 [BlackBox](https://github.com/StackExchange/blackbox): Store secrets securely in git repos.
 
 [jq](https://stedolan.github.io/jq/tutorial/): Parse and process JSON in the command line
+
+[Read-O-meter](http://niram.org/read): Calculates reading time for articles
