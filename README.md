@@ -19,3 +19,5 @@
 [jq](https://stedolan.github.io/jq/tutorial/): Parse and process JSON in the command line
 
 [Read-O-meter](http://niram.org/read): Calculates reading time for articles
+
+[repl.it](https://repl.it/): Online REPL interpreter for lots of programming languages
