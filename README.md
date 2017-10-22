@@ -22,4 +22,4 @@
 
 [repl.it](https://repl.it/): Online REPL interpreter for lots of programming languages
 
-[patch-package](https://www.npmjs.com/package/patch package): Do not wait for your PRs to get merged. Works on the npm ecosystem.
+[patch-package](https://www.npmjs.com/package/patch-package): Do not wait for your PRs to get merged. Works on the npm ecosystem.
