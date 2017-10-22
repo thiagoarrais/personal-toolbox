@@ -15,3 +15,5 @@
 [ngrok](https://ngrok.com): Expose a local (dev) server to the Internet. Even behind a firewall. 
 
 [BlackBox](https://github.com/StackExchange/blackbox): Store secrets securely in git repos.
+
+[patch-package](https://www.npmjs.com/package/patch package): Do not wait for your PRs to be merged. Works on the npm ecosystem.
