@@ -25,3 +25,5 @@
 [patch-package](https://www.npmjs.com/package/patch-package): Do not wait for your PRs to get merged. Works on the npm ecosystem.
 
 [star-history](http://www.timqian.com/star-history/): View history of github stars. Good for evaluating tendencies.
+
+[the noun project](https://thenounproject.com): "Toilet people" icon library
