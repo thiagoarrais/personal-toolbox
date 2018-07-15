@@ -29,3 +29,5 @@
 [the noun project](https://thenounproject.com): "Toilet people" icon library
 
 [ponyfoo](https://ponyfoo.com/): Good articles about JS (maybe about other subjects too)
+
+[slate](https://github.com/lord/slate): Markdown-based static site generator for API documentation
