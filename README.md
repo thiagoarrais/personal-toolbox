@@ -33,3 +33,5 @@
 [slate](https://github.com/lord/slate): Markdown-based static site generator for API documentation
 
 [carbon](https://carbon.now.sh/): Turn source code into a nice image
+
+[silicon](https://github.com/Aloxaf/silicon/): carbon, but offline. written in Rust :-)
