@@ -34,4 +34,4 @@
 
 [carbon](https://carbon.now.sh/): Turn source code into a nice image
 
-[silicon](https://github.com/Aloxaf/silicon/): carbon, but offline. written in Rust :-)
+[silicon](https://github.com/Aloxaf/silicon/): carbon, but offline. written in Rust :-) !!!
